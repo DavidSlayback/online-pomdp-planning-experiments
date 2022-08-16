@@ -1,4 +1,4 @@
-project: test-wandb-project # the project name in wandb
-entity: skatt # user/team name on wandb
+project: option-planning  # the project name in wandb
+entity: davidslayback # user/team name on wandb
 group: example-group # group name in wandb (extra organizational power)
-mode: online # or "offline"
+mode: offline # or "online"
